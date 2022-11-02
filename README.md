@@ -1,6 +1,6 @@
 # Getting started Xamarin backdrop page
 
-This repository contains sample for how to get started with the [Syncfusion Xamarin.Forms Backdrop Page](https://help.syncfusion.com/xamarin/backdrop-page/getting-started) control. The backdrop page is composed of two surfaces, a back layer and a front layer. The back layer holds actionable content (like navigation or filtration), which is relevant to the front layer.
+This repository contains sample to get started with the [Syncfusion Xamarin.Forms Backdrop Page](https://help.syncfusion.com/xamarin/backdrop-page/getting-started) control. The backdrop page is composed of two surfaces, a back layer and a front layer. The back layer holds actionable content (like navigation or filtration), which is relevant to the front layer.
 
 ## Syncfusion controls:
 
